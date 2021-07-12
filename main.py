@@ -1,4 +1,4 @@
-def insertio(array):
+def insertion(array):
     for i in range(1,len(array)):
         up = array[i]
         j = i - 1
